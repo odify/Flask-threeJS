@@ -1,0 +1,12 @@
+black
+isort
+flask
+Flask-CORS
+
+
+
+
+
+
+
+
